@@ -55,7 +55,7 @@ span{
     position:absolute;
     text-align: center;
     font-size:4vh;
-    width:30vw;
+    /* width:vw; */
     bottom:0;
     border-radius: 20px;
 }
@@ -64,6 +64,6 @@ span{
 }
 .result{
     position:absolute;
-    top:0;
+    top:10vh;
     font-size: 4vh;
 }
