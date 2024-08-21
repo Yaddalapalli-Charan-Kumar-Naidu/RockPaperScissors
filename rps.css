@@ -56,7 +56,7 @@ span{
     text-align: center;
     font-size:4vh;
     /* width:vw; */
-    bottom:0;
+    bottom:0px;
     border-radius: 20px;
 }
 .showlg{
